@@ -175,6 +175,11 @@ body {
     padding : 0.75rem;
     color: #ffffff;
 }
+.span-footer {
+    color: var(--blue-color);
+    font-weight: bold;
+}
+
 .profile {
     width : 100%;
     text-align : center;
